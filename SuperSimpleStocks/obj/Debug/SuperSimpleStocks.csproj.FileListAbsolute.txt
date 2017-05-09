@@ -1,0 +1,8 @@
+C:\ProgStuff\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+C:\ProgStuff\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe
+C:\ProgStuff\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+C:\ProgStuff\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\nunit.framework.dll
+C:\ProgStuff\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\nunit.framework.xml
+C:\ProgStuff\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.csprojResolveAssemblyReference.cache
+C:\ProgStuff\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+C:\ProgStuff\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
